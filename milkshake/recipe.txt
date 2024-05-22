@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 change 1
 eat the cake 
+=======
+*change 1
+add step 2
+check if added in GitHub
+>>>>>>> experimental

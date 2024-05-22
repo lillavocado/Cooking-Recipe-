@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 onion
 tomato
 pepper
+=======
+tomato
+>>>>>>> parent of 3d72a8c (added onion)
